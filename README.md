@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="ChatGPT Image Feb 11, 2026, 11_24_55 PM" src="https://github.com/user-attachments/assets/921dacf8-5708-4519-b7a0-2e211d9c6072" /># 📊 Customer Behavior and Business Analysis: SQL Analytics
+“End-to-End SQL Customer & Revenue Intelligence Analysis"
 
 ## 🌟 Project Overview
 
