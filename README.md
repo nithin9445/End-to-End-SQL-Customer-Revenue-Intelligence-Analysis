@@ -1,4 +1,4 @@
-# 📊 Customer Behavior and Business Analysis: SQL Analytics
+<img width="1536" height="1024" alt="ChatGPT Image Feb 11, 2026, 11_24_55 PM" src="https://github.com/user-attachments/assets/921dacf8-5708-4519-b7a0-2e211d9c6072" /># 📊 Customer Behavior and Business Analysis: SQL Analytics
 
 ## 🌟 Project Overview
 
@@ -28,10 +28,11 @@ Each query is designed to address specific business problems and provide actiona
 
 ## 📊 Power BI Dashboard
 ### HomePage
-![alt text](https://github.com/mayurpaunikar7/customer-behavior-sql-analytics/blob/main/SCHEMA/Dashboard%20Home%20Page.jpeg)
+![alt text]<img width="1536" height="1024" alt="DashBoard 1" src="https://github.com/user-attachments/assets/8da69c6f-e496-4da5-a2d8-cb4e89b3f01e" />
 
 ### Page 2
-![alt text](https://github.com/mayurpaunikar7/customer-behavior-sql-analytics/blob/main/SCHEMA/Dashboard%20Page%202.jpeg)
+![alt text]<img width="1536" height="1024" alt="DashBoard 2" src="https://github.com/user-attachments/assets/0de76141-83fd-4926-89d1-d95d646b9d7a" />
+
 
 ### ❓ Business Problem Questions
 
