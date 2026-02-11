@@ -11,18 +11,6 @@
 - The challenge is to extract valuable insights from a complex dataset with multiple interconnected tables, including customers, orders, products, payments, and more.
 - This analysis will empower decision-makers with data-driven insights to optimize business strategies.
 
-## 📋 Table of Contents
-
-- [Project Details](#project-details)
-- [Database Schema](#database-schema)
-- [SQL Queries](#sql-queries)
-- [Business Problem Questions](#business-problem-questions)
-- [How to Use](#how-to-use)
-- [Challenges Faced](#challenges-faced)
-- [Insights Derived](#insights-derived)
-- [Future Scope](#future-scope)
-- [Contributing](#contributing)
-
 
 ## 📁 Project Details
 
